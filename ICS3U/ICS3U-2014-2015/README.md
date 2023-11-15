@@ -1,4 +1,4 @@
-ICS3U
+ICS3U in Processing
 =====
 
 ICS3U Course for Mr. Seidel (2014-2015 school year)
