@@ -1,4 +1,4 @@
-# ICS3 in Python
+# ICS3 in Python 3
 
 This is a Wiki from a repository.  Create this as a Wiki to see it properly.
 
