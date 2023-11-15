@@ -1,4 +1,4 @@
-# ICS3C
+# ICS3C in Python
 
 ICS3C Course for Mr. Seidel's classes
 
